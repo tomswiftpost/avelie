@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 220" role="img" aria-labelledby="title">
+  <title id="title">Avelie</title>
+  <defs>
+    <linearGradient id="avelieGradient" x1="70" y1="110" x2="640" y2="110" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8c75e8"/>
+      <stop offset="0.5" stop-color="#e780b9"/>
+      <stop offset="1" stop-color="#ff9876"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="220" fill="none"/>
+  <text x="48" y="148" fill="url(#avelieGradient)" font-family="Georgia, 'Times New Roman', serif" font-size="136" font-style="italic" font-weight="500">Avelie</text>
+  <path d="M122 172 C235 205 446 184 589 176" fill="none" stroke="url(#avelieGradient)" stroke-width="8" stroke-linecap="round" opacity="0.8"/>
+  <path d="M548 69 C572 28 618 25 644 45 C620 79 583 86 548 69Z" fill="#ff9876" opacity="0.9"/>
+  <path d="M519 63 C486 28 440 28 421 50 C448 82 486 90 519 63Z" fill="#8c75e8" opacity="0.9"/>
+  <path d="M519 92 C488 92 463 116 460 143 C493 142 517 122 519 92Z" fill="#8c75e8" opacity="0.82"/>
+  <path d="M548 92 C583 91 614 113 622 143 C588 146 557 126 548 92Z" fill="#ff9876" opacity="0.82"/>
+</svg>
